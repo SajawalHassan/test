@@ -1,1 +1,1 @@
-print ("yo mama")
+print ("hi")
